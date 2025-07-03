@@ -1,0 +1,19 @@
+{
+  "app": [
+    {
+      "appId": "miniapp1",
+      "permissions": [ "images"],
+      "imagePath" : "images_miniapp1"
+    },
+    {
+      "appId": "miniapp2",
+      "permissions": ["camera", "images"],
+      "imagePath" : "images_miniapp2"
+    },
+    {
+      "appId": "miniapp3",
+      "permissions": ["camera", "images"],
+      "imagePath" : "images_miniapp3"
+    }
+  ]
+}
